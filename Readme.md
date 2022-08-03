@@ -15,7 +15,7 @@ Done...
 NOTE:
 1) The graphics.h will work only in the program saved in ".cpp" format.
 
-To check the graphics.h is working or not
+To check whether the graphics.h header is working or not follow the steps given below:-
 *****************************************************************************************************
-Create a new consol application in ".cpp" format and copy the codes given below, paste it in the
+Create a new console application in ".cpp" format and copy the codes given, paste it in the
 file you created and click "Build and Run" button or click "F9" key from your keyboard..
